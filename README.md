@@ -1,10 +1,15 @@
 ### Hi there 👋 I'm gitsuhyun
 
-**A developer who turns technology into real value for users.**
+## A developer who turns technology into real value for users
+*Always growing by taking on new challenges.*<br>
+*Growing together with my team, not just on my own.*
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/%7Bgitsuhyun%7D"/>
 </a>
+
+<br>
+<br>
 
 ## 🔭 What I Do
  
@@ -12,6 +17,8 @@
 - ☁️ **Backend on AWS** — ship API services with ECS Fargate, Lambda, and GitHub Actions CI/CD
 - 🔁 **Automation** — turn repetitive work into automated workflows for teams
 - 📱 **Mobile** — build apps across Android (Kotlin, Compose), Flutter, and iOS (SwiftUI)
+
+<br>
 
 ## 🛠 Tech Stack
  
@@ -55,16 +62,29 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
+<br>
 
-## 🏆 Awards
+
+## 🏆 Awards & Honors
 
 - 🥇 **Top Prize** — University SMART Tournament (Dec 2025)
 - 🏅 **Director's Prize** — CO-SHOW 2025 IoT & AI Innovation Challenge (Nov 2025)
+- 🎖 **Next-Generation Engineer (2nd Cohort)** — Selected by the Institute for Promotion of Engineering and Science of Korea (IPESK) (Aug 2025)
 - 🏅 **Excellence Prize** — University SMART Tournament (Jun 2025)
 - 🥇 **Grand Prize** — KICS Summer Conference Idea Competition (Jun 2025)
 - 🏅 **Excellence Prize** — SOPT AppJam Hackathon (Feb 2025)
 - 🏅 **Excellence Prize** — Industry-Academia Project with Soulive Inc. (Apr 2024)
 
+<br>
+
+<h3 align="center">📫 Contact me 📫</h3>
+
+<div align="center">
+  <a href="mailto:kimsuhyun604@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kimsuhyun604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
  
 <!-- ![gitsuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsuhyun&show_icons=true&theme=radical) -->
 
