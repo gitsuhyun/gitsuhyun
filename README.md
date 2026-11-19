@@ -77,6 +77,7 @@
 
 <br>
 
+<!--
 <h3 align="center">📫 Contact me 📫</h3>
 
 <div align="center">
@@ -86,5 +87,5 @@
   </a>
 </div>
  
-<!-- ![gitsuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsuhyun&show_icons=true&theme=radical) -->
+ ![gitsuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsuhyun&show_icons=true&theme=radical) -->
 
