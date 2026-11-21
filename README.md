@@ -80,15 +80,20 @@
 
 <br>
 
-<!--
 <h3 align="center">📫 Contact me 📫</h3>
 
 <div align="center">
-  <a href="mailto:kimsuhyun604@gmail.com">
+  <a href="https://www.linkedin.com/in/im-suhyeon-kim/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+ <!--
+ <a href="mailto:kimsuhyun604@gmail.com">
     <img
       src="https://img.shields.io/badge/kimsuhyun604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
- 
+  
  ![gitsuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsuhyun&show_icons=true&theme=radical) -->
 
