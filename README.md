@@ -67,16 +67,18 @@
 
 ## 🏆 Awards & Honors
 
+**Honors**
 - 🎖 **ABEEK Accredited Program Graduate** — Accreditation Board for Engineering Education of Korea (ABEEK) · Computer Science and Engineering, Advanced Major Program (Aug 2026)
+- 🎖 **Next-Generation Engineer (2nd Cohort)** — Selected by the Institute for Promotion of Engineering and Science of Korea (IPESK) (Aug 2025)
+
+**Awards**
 - 🥇 **Top Prize** — University SMART Tournament (Dec 2025)
 - 🏅 **Director's Prize** — CO-SHOW 2025 IoT & AI Innovation Challenge (Nov 2025)
-- 🎖 **Next-Generation Engineer (2nd Cohort)** — Selected by the Institute for Promotion of Engineering and Science of Korea (IPESK) (Aug 2025)
 - 🏅 **Excellence Prize** — University SMART Tournament (Jun 2025)
 - 🥇 **Grand Prize** — KICS Summer Conference Idea Competition (Jun 2025)
 - 🏅 **Excellence Prize** — SOPT AppJam Hackathon (Feb 2025)
 - 🏅 **Excellence Prize** — Industry-Academia Project with Soulive Inc. (Apr 2024)
 - 🏅 **Honorable Mention** — University IT Teaching Material Contest: Prototype App Design with Figma & Plugins (Dec 2023)
-
 
 <br>
 
